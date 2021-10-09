@@ -1,4 +1,5 @@
-print('''  
+print('''
+			  Program Tebak Usia  
 		[ Saya akan menebak umur Anda ]
 	[ Silahkan Anda masukkan tahun kelahiran Anda ]
 	''')
